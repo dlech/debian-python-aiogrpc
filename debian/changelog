@@ -1,0 +1,5 @@
+aiogrpc (1.8-1) bullseye; urgency=medium
+
+  * Initial release.
+
+ -- David Lechner <david@ablerobots.com>  Wed, 27 Apr 2022 21:53:47 +0000

@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: aiogrpc
+Source: aiogrpc has exactly the same interface as grpc.io 
+
+Files: *
+Copyright: hubo1016
+License: Apache-2.0
+    Full text is in: /usr/share/common-licenses/Apache-2.0
